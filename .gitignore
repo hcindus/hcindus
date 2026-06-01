@@ -1,0 +1,36 @@
+# Large binary files
+*.apk
+*.ipa
+*.exe
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# Archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
